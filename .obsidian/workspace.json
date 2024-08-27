@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d4c848160cd4e536",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3233c47f25003de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7dfce862c01d200",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44bda5f5236de881",
+    "type": "split",
+    "children": [
+      {
+        "id": "224775e6fda31f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d024fb5690c5aab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c2791b47e698495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd5f22e478a7257c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d06dd62498bed542",
+    "type": "split",
+    "children": [
+      {
+        "id": "2250929ac35a5cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec72bf23a502d04f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d198198399448c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf41e682db99db9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4c6d60937e8987e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7dfce862c01d200",
+  "lastOpenFiles": [
+    "AZ-900/Azure Fundamentals (AZ-900).md",
+    "AZ-900/Tag Inheritance.md",
+    "AZ-900/AZ Virtual Machine Uptime.md",
+    "AZ-900/Azure ExpressRoute.md",
+    "AZ-900/Availability Zones.md",
+    "AZ-900/Describe Azure management and governance.md",
+    "Templates/Template.md",
+    "Templates/Untitled.md",
+    "AZ-900/Resource Locks.md",
+    "Templates",
+    "AZ-900/Describe Azure Architecture and Services.md",
+    "AZ-900/Azure Tag Support.md",
+    "AZ-900/Describe Cloud Concepts.md",
+    "AZ-900/Factors affecting Azure availability within SLA.md",
+    "AZ-900",
+    "Describe.md",
+    "\"Describe.md",
+    "26 Aug 24.md",
+    "().md",
+    "Untitled.md",
+    "AZ-900"
+  ]
+}

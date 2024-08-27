@@ -1,0 +1,8 @@
+{
+  "vimMode": true,
+  "autoPairMarkdown": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false
+}
