@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:AZ-900  ",
@@ -20,9 +20,23 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "path:\"IT Support Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 5992795
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 1.1826416015625,
@@ -32,6 +46,6 @@
   "repelStrength": 8.32356770833333,
   "linkStrength": 0.652180989583333,
   "linkDistance": 202,
-  "scale": 0.31002657192847594,
+  "scale": 0.39435224503757743,
   "close": true
 }
