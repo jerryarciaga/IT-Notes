@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f3233c47f25003de",
+        "id": "28c78e45dba10fc4",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "f7dfce862c01d200",
+            "id": "ef88b502be6181f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AZ-900/Azure Management Infrastructure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35b31af28ed04e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-900/Subscription.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subsc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "d06dd62498bed542",
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AZ-900/Subscription.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AZ-900/Subscription.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AZ-900/Subscription.md"
+              }
             }
           }
         ],
@@ -140,39 +161,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7dfce862c01d200",
+  "active": "0d024fb5690c5aab",
   "lastOpenFiles": [
-    "AZ-900/Azure Tag Support.md",
-    "AZ-900/Azure Network Connectivity.md",
+    "AZ-900/Azure Management Infrastructure.md",
+    "AZ-900/Subscription.md",
     "Linux/pacman.md",
-    "Linux/Reflector.md",
-    "AZ-900/Azure Functions.md",
-    "Untitled",
+    "AZ-900/Hybrid Cloud.md",
+    "AZ-900/Azure Service Health.md",
+    "AZ-900/Azure Network Connectivity.md",
     "AZ-900/Describe Azure Architecture and Services.md",
-    "AZ-900/Azure Fundamentals (AZ-900).md",
-    "AZ-900/Azure Cost Management and Billing.md",
-    "AZ-900/AZ Virtual Machine Uptime.md",
-    "Linux",
-    "Untitled.md",
-    "IT Support Notes/Software Issues.md",
-    "IT Support Notes/Desktop Support Notes.md",
-    "IT Support Notes/Hardware Issues.md",
-    "IT Support Notes/Network Issues.md",
-    "IT Support Notes",
-    "AZ-900/Availability Zones.md",
-    "AZ-900/Describe Cloud Concepts.md",
-    "AZ-900/Describe Azure management and governance.md",
-    "AZ-900/Azure ExpressRoute.md",
-    "Templates/Template.md",
-    "AZ-900/Resource Locks.md",
     "AZ-900/Tag Inheritance.md",
-    "Templates/Untitled.md",
-    "Templates",
+    "IT Support Notes/Change IP Address.md",
+    "Untitled.md",
+    "IT Support Notes/Network.md",
+    "IT Support Notes/Software.md",
+    "IT Support Notes/Hardware.md",
+    "IT Support Notes/Desktop Support Notes.md",
+    "IT Support Notes/Data Transfer.md",
+    "AZ-900/Microsoft Purview.md",
+    "AZ-900/Availability Zones.md",
+    "AZ-900/Azure Tag Support.md",
+    "AZ-900/Describe Azure management and governance.md",
     "AZ-900/Factors affecting Azure availability within SLA.md",
+    "AZ-900/Azure ExpressRoute.md",
+    "AZ-900/AZ Virtual Machine Uptime.md",
+    "AZ-900/Azure Cost Management and Billing.md",
+    "AZ-900/Azure Functions.md",
+    "AZ-900/Azure Fundamentals (AZ-900).md",
+    "AZ-900/Describe Cloud Concepts.md",
+    "Untitled",
+    "Linux",
+    "IT Support Notes",
+    "Templates",
     "AZ-900",
-    "Describe.md",
-    "\"Describe.md",
-    "26 Aug 24.md",
     "AZ-900"
   ]
 }
