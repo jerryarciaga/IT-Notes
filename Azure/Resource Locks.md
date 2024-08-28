@@ -8,7 +8,7 @@ See also:
 * [Resource Locks - Microsoft Learn]([https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
 
 Related Links:
-* [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
+* [[Azure/Describe Azure management and governance|Describe Azure management and governance]]
 
 Tags:
 #az900 #resource #azure 

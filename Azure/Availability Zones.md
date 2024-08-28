@@ -7,6 +7,6 @@ Minimum of **three** separate zones in enabled regions.
 Reference:
 [Availability Zone Overview | Microsoft Learn](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
 Related Links:
-[[AZ-900/Describe Cloud Concepts|Describe Cloud Concepts]]
+[[Azure/Describe Cloud Concepts|Describe Cloud Concepts]]
 Tags:
 #az900 #availability #azure 

@@ -6,6 +6,6 @@ See also
 [Microsoft Purview](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-data-governance/)
 
 Related Links
-[[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
+[[Azure/Describe Azure management and governance|Describe Azure management and governance]]
 
 #az900 #purview #azure 

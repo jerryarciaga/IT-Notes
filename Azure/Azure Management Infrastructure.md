@@ -12,6 +12,6 @@ See also
 [Describe Azure Management Infrastructure | Learn Microsoft](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure)
 
 Related Links
-[[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
+[[Azure/Describe Azure management and governance|Describe Azure management and governance]]
 
 #az900 #accessmanagement #azuresubscription #azure 

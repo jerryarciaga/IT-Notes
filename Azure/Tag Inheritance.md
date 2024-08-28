@@ -6,7 +6,7 @@ Reference:
 [Tag Resource Groups | Microsoft Learn](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal#tag-resource-groups)
 
 Related Links:
-[[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
+[[Azure/Describe Azure management and governance|Describe Azure management and governance]]
 
 Tags:
-#resource #tags #az900 #azure 
+#resource #tags #az900 #azure #inheritance

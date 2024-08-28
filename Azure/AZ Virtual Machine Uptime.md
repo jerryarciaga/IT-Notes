@@ -2,7 +2,7 @@ You can achieve up to **99.99% uptime** for virtual machine connectivity if you 
 
 ---
 Related Links:
-[[AZ-900/Describe Azure Architecture and Services]]
+[[Azure/Describe Azure Architecture and Services]]
 
 See also:
 [SLA Virtual Machines](https://www.azure.cn/en-us/support/sla/virtual-machines/)
