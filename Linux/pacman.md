@@ -22,3 +22,5 @@ See also:
 
 Related Links:
 [[Linux/Reflector|Reflector]]
+
+#archlinux #linux #packagemanagement #pacman 

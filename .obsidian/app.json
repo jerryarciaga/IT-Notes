@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "defaultViewMode": "source"
 }
