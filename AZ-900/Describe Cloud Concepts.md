@@ -17,3 +17,5 @@
 - Describe platform as a service (PaaS)
 - Describe software as a service (SaaS)
 - Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)
+
+#azure #az900 

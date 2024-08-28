@@ -7,4 +7,4 @@ One example is an Azure Stack, a hybrid cloud solution that allows you to use Az
 Related Links:
 [[AZ-900/Describe Azure Architecture and Services|Describe Azure Architecture and Services]]
 
-#networking #az900 
+#networking #az900 #azure 

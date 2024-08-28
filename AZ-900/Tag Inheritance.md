@@ -9,4 +9,4 @@ Related Links:
 [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
 
 Tags:
-#resource #tags #az900 
+#resource #tags #az900 #azure 

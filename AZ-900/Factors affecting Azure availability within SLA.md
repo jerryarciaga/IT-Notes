@@ -7,5 +7,4 @@ Related Links:
 [[Describe Azure management and governance]]
 
 Tags:
-#az900 
-#sla
+#az900 #sla #azure 

@@ -8,4 +8,4 @@ See also
 Related Links
 [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
 
-#az900 #purview 
+#az900 #purview #azure 

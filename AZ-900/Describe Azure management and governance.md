@@ -18,3 +18,5 @@
 - Describe the purpose of Azure Advisor
 - Describe Azure Service Health
 - Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
+
+#az900 #azure 

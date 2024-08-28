@@ -9,4 +9,4 @@ Reference:
 Related Links:
 [[AZ-900/Describe Cloud Concepts|Describe Cloud Concepts]]
 Tags:
-#az900 #availability
+#az900 #availability #azure 

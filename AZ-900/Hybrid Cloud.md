@@ -5,4 +5,4 @@ A computing environment that combines **on-premises** datacenters (private) with
 Related Links
 [[AZ-900/Describe Cloud Concepts|Describe Cloud Concepts]]
 
-#az900 #hybridcloud #cloudmodels
+#az900 #hybridcloud #cloudmodels #azure 

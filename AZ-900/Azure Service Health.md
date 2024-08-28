@@ -5,4 +5,4 @@ Notifies you about Azure service incidents and planned maintenance. We can confi
 Related links
 [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
 
-#az900 #servicehealth
+#az900 #servicehealth #azure 

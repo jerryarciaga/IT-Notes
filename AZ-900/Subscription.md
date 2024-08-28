@@ -5,3 +5,5 @@ A **subscription** is an agreement with Microsoft to use one or more Microsoft c
 Related Links
 [[AZ-900/Azure Management Infrastructure|Azure Management Infrastructure]]
 [[AZ-900/Describe Azure Architecture and Services|Describe Azure Architecture and Services]]
+
+#azure #azuresubscription #az900 

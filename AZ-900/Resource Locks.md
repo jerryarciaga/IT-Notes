@@ -11,6 +11,4 @@ Related Links:
 * [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
 
 Tags:
-#az900 
-#resource
-#locks
+#az900 #resource #azure 

@@ -9,4 +9,4 @@ Related Links:
 [[AZ-900/Describe Azure management and governance|Describe Azure management and governance]]
 
 Tags:
-#az900 #costmanagement
+#az900 #costmanagement #azure 

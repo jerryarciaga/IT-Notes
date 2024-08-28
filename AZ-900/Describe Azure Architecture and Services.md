@@ -34,3 +34,5 @@
 - Describe the concept of Zero Trust
 - Describe the purpose of the defense-in-depth model
 - Describe the purpose of Microsoft Defender for Cloud
+
+#azure #az900 

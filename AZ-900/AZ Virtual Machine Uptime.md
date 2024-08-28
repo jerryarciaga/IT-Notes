@@ -8,4 +8,4 @@ See also:
 [SLA Virtual Machines](https://www.azure.cn/en-us/support/sla/virtual-machines/)
 
 Tags:
-#az900 #sla
+#az900 #sla #azure 

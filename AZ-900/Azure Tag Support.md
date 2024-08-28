@@ -7,4 +7,4 @@ Related Links:
 See also:
 [Tag Resources]([https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
 
-#az900 #tags 
+#az900 #tags #azure 
