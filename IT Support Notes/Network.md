@@ -9,4 +9,4 @@ Related Links:
 [[IT Support Notes/Desktop Support Notes|Desktop Support Notes]]
 
 Tags:
-#networking #troubleshoot
+#networking #troubleshooting #desktop-support 

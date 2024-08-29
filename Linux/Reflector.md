@@ -11,4 +11,4 @@ See also:
 Related Links:
 [[Linux/pacman|pacman]]
 
-#packagemanagement #pacman #archlinux #linux 
+#package-management #pacman #archlinux #linux 

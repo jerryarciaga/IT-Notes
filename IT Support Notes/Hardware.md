@@ -5,4 +5,12 @@
 * 5 lbs of force.
 * Static electricity can discharge and damage your electronic components.
 
-#hardware #troubleshoot 
+# Types of issues you may encounter
+* [[USB devices not working]]
+
+
+---
+Related 
+[[IT Support Notes/Desktop Support Notes|Desktop Support Notes]]
+
+#hardware #troubleshooting  #desktop-support 
