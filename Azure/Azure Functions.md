@@ -5,4 +5,4 @@
 Related Links:
 [[Azure/Describe Azure Architecture and Services|Describe Azure Architecture and Services]]
 
-#serverlesscomputing #az900 #azure 
+#serverless-computing #az900 #azure 
