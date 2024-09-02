@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21d36c36d7b8fc26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Azure Service Health.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a9c2e52c2d8e1aaf",
             "type": "leaf",
             "state": {
@@ -27,6 +15,18 @@
               "state": {
                 "file": "Azure/Azure Monitor.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70b385cea9f094ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Support Notes/Network Troubleshooting Flowchart.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -78,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "right": {
     "id": "d06dd62498bed542",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Azure Monitor.md",
+                "file": "IT Support Notes/Network Troubleshooting Flowchart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Azure Monitor.md",
+                "file": "IT Support Notes/Network Troubleshooting Flowchart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Azure Monitor.md"
+                "file": "IT Support Notes/Network Troubleshooting Flowchart.md"
               }
             }
           }
@@ -162,10 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9c2e52c2d8e1aaf",
+  "active": "70b385cea9f094ca",
   "lastOpenFiles": [
-    "Azure/Azure Service Health.md",
     "Azure/Azure Monitor.md",
+    "IT Support Notes/Network Troubleshooting Flowchart.md",
+    "IT Support Notes/Network.md",
+    "IT Support Notes/Untitled.md",
+    "Azure/Azure Service Health.md",
+    "IT Support Notes/Desktop Support Notes.md",
     "Azure Files.md",
     "Azure/Azure Functions.md",
     "Azure Functions.md",
@@ -186,10 +188,6 @@
     "Azure/Subscription.md",
     "Azure/Virtual Machine Scale Sets.md",
     "Azure/Tag Inheritance.md",
-    "Azure/Azure Tag Support.md",
-    "Azure/AZ Virtual Machine Uptime.md",
-    "Azure/Availability Zones.md",
-    "IT Support Notes/Change IP Address.md",
     "AZ-104",
     "Linux",
     "IT Support Notes",
