@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,8 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d024fb5690c5aab",
+  "active": "2c3ea761e96d0437",
   "lastOpenFiles": [
+    "IT Support Notes/Network Troubleshooting Flowchart.md",
+    "Azure/Availability Zones.md",
+    "Linux/Bulk Renaming Files.md",
     "Azure/Data Redundancy.md",
     "Azure/Quota Limits.md",
     "Azure/Shared responsibility.md",
@@ -153,7 +157,6 @@
     "Azure/Subscription.md",
     "Azure/Hybrid Cloud.md",
     "Azure/Azure Monitor.md",
-    "IT Support Notes/Network Troubleshooting Flowchart.md",
     "IT Support Notes/Network.md",
     "IT Support Notes/Untitled.md",
     "IT Support Notes/Desktop Support Notes.md",
@@ -166,8 +169,6 @@
     "Azure/Permission Inheritance.md",
     "Azure/Azure Management Infrastructure.md",
     "Azure/Azure Cost Management and Billing.md",
-    "Azure/Azure Advisor.md",
-    "Azure/Factors affecting Azure availability within SLA.md",
     "AZ-104",
     "Linux",
     "IT Support Notes",
