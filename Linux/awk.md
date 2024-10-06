@@ -15,6 +15,7 @@
 ## Removing whitespace-only lines
 `awk 'NF' file`
 
+
 ---
 Related links:
 [Linux Handbook | AWK](https://linuxhandbook.com/awk-command-tutorial/)
