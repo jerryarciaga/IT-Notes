@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Support Notes/Random Shutdowns.md",
+                "file": "Linux/LVM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LVM"
             }
           },
           {
@@ -26,13 +28,14 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/awk.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "awk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,15 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
+    "width": 332.5,
     "collapsed": true
   },
   "right": {
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/awk.md",
+                "file": "Linux/LVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LVM"
             }
           },
           {
@@ -117,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/awk.md",
+                "file": "Linux/LVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LVM"
             }
           },
           {
@@ -131,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/awk.md"
-              }
+                "file": "Linux/LVM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LVM"
             }
           }
         ],
@@ -162,11 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9adf5ea7c8aed5c3",
+  "active": "d182d43170ae9993",
   "lastOpenFiles": [
-    "Linux/Bulk Renaming Files.md",
-    "Linux/awk.md",
+    "Azure/Factors affecting Azure availability within SLA.md",
+    "Linux/LVM.md",
+    "Azure/Azure Service Health.md",
+    "Azure/Azure Monitor.md",
+    "Azure/Azure Cost Management and Billing.md",
     "IT Support Notes/Random Shutdowns.md",
+    "Linux/awk.md",
+    "Linux/Bulk Renaming Files.md",
     "Azure/AZ Virtual Machine Uptime.md",
     "Azure/Microsoft Purview.md",
     "Azure/PaaS - recommended for developers.md",
@@ -178,7 +199,6 @@
     "Azure/Describe Azure Architecture and Services.md",
     "Azure/Azure Files.md",
     "Azure/IaaS - recommended for high customization.md",
-    "Azure/Factors affecting Azure availability within SLA.md",
     "Azure/Describe Azure management and governance.md",
     "Azure/Azure Fundamentals (AZ-900).md",
     "Azure/Azure Functions.md",
@@ -187,10 +207,6 @@
     "Windows/Function Parameters.md",
     "Windows/PowerShell Functions.md",
     "Windows",
-    "Azure/Azure Cost Management and Billing.md",
-    "Azure/Data Redundancy.md",
-    "Azure/Shared responsibility.md",
-    "Azure/Azure Service Health.md",
     "AZ-104",
     "Linux",
     "IT Support Notes",

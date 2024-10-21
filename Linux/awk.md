@@ -14,7 +14,9 @@
 `awk 'NR>1 && NR<4' file`
 ## Removing whitespace-only lines
 `awk 'NF' file`
-
+## Extracting fields
+One of the most common use cases for AWK: extracting some columns of the data file.
+`awk '{ print $1, $3 }' FS=, OFS=, file`
 
 ---
 Related links:
