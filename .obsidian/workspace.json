@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LVM.md",
+                "file": "Linux/awk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LVM"
+              "title": "awk"
             }
           },
           {
@@ -33,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "awk"
+            }
+          },
+          {
+            "id": "e8c8b41d0c233bcd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -66,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "logging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,21 +192,23 @@
   },
   "active": "d182d43170ae9993",
   "lastOpenFiles": [
-    "Azure/Factors affecting Azure availability within SLA.md",
+    "Linux/faillock.md",
+    "Linux/awk.md",
+    "Azure/Virtual Machine Scale Sets.md",
+    "Azure/Permission Inheritance.md",
+    "Azure/Public Cloud.md",
     "Linux/LVM.md",
+    "Azure/Factors affecting Azure availability within SLA.md",
     "Azure/Azure Service Health.md",
     "Azure/Azure Monitor.md",
     "Azure/Azure Cost Management and Billing.md",
     "IT Support Notes/Random Shutdowns.md",
-    "Linux/awk.md",
     "Linux/Bulk Renaming Files.md",
     "Azure/AZ Virtual Machine Uptime.md",
     "Azure/Microsoft Purview.md",
     "Azure/PaaS - recommended for developers.md",
-    "Azure/Permission Inheritance.md",
     "Azure/Quota Limits.md",
     "Azure/Inter Region Data Transfer.md",
-    "Azure/Virtual Machine Scale Sets.md",
     "Azure/Web Apps.md",
     "Azure/Describe Azure Architecture and Services.md",
     "Azure/Azure Files.md",
@@ -204,8 +218,6 @@
     "Azure/Azure Functions.md",
     "Linux/Reflector.md",
     "Windows/Get-WinEvent.md",
-    "Windows/Function Parameters.md",
-    "Windows/PowerShell Functions.md",
     "Windows",
     "AZ-104",
     "Linux",
