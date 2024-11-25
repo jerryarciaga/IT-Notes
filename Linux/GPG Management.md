@@ -16,7 +16,7 @@ Since GPG 2.1, revocation certificates have already been created. By default, th
 # Backup and Restore
 Backing up and restoring GPG keys is as easy as backing up the following `$HOME/.gnupg` folder.
 Sure there are other ways to export secret keys, such as the following:
-`gpg --export-secret-keys --output <export_file>.gpg --armor <email>`, but it's usually easier to just export the whole `$HOME/.gnupg` folder instead.
+`gpg --export-secret-keys --output <export_file>.gpg --armor <fingerprint>`, but it's usually easier to just export the whole `$HOME/.gnupg` folder instead.
 
 # Exporting GPG keys
 To export public keys for use with sites like GitHub, you can use the following:
