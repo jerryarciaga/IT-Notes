@@ -14,6 +14,11 @@ You can pipe a message into the following command:
 `gpg --clearsign -u <email>`
 
 To verify the message, simply use `gpg --verify <file>`
+
+## Encrypt and sign at the same time
+To encrypt and sign a message into a single file, you can use the following:
+`gpg --armor --sign --recipient <fingerprint> --encrypt secret`
+
 ## Files
 To sign a file using gpg, you usually create a separate signature file. In this case, you use `gpg --detach-sign -u <email> <file>`. This creates a separate signature file `*.sig`. To verify using the signature, you can use `gpg --verify <signature_file> <file>`.
 ## Note on file verification
