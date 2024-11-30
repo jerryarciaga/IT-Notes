@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/GPG Management.md",
+                "file": "Podman/Running containers in Podman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPG Management"
+              "title": "Running containers in Podman"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "d06dd62498bed542",
@@ -181,8 +180,10 @@
   },
   "active": "c9b34ad8251136af",
   "lastOpenFiles": [
-    "Linux/GPG Basics.md",
     "Linux/GPG Management.md",
+    "Podman/Running containers in Podman.md",
+    "Podman",
+    "Linux/GPG Basics.md",
     "Linux/awk.md",
     "Linux/faillock.md",
     "Azure/Virtual Machine Scale Sets.md",
@@ -206,7 +207,6 @@
     "Azure/IaaS - recommended for high customization.md",
     "Azure/Describe Azure management and governance.md",
     "Azure/Azure Fundamentals (AZ-900).md",
-    "Azure/Azure Functions.md",
     "Windows",
     "AZ-104",
     "Linux",
