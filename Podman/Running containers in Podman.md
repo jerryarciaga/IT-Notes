@@ -4,7 +4,7 @@ Here, you can specify the image name by doing a `podman search` then copying ove
 The command above just did the following:
 * `podman run` runs a container. If nothing is specified, this creates a new container.
 * `-d or --detach` using this option makes it so the container is ran in the background.
-* `-t or --tty` allocates a pseudo-TTY. Runs a throwaway interactive shell.
+* `-t or --tty` allocates a pseudo-TTY. Runs a throwaway container shell.
 # Running Podman as root
 You can run `podman` images as root as well. For example:
 `sudo podman run -dt --name rootubi8 registry.access.redhat.com/ubi8` does the following:
