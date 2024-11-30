@@ -11,3 +11,13 @@ You can run `podman` images as root as well. For example:
 * `-d` makes the container run in detached mode
 * `-t` allocates a `tty` for that container
 * `--name` specifies a name for the container
+Pausing and unpausing containers can only be done using `root` for now.
+
+# Working with running containers
+You can generally execute a command within a container using the following as a guide:
+`podman exec <container_name> <command>`
+To enter a running container's shell you can use the following command as an example:
+`podman exec -it mynginx /bin/bash`
+This command does the following:
+* `-i or --interactive` makes an interactive process
+* `-t or --tty` allocates a pseudo-tty.
