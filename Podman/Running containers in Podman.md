@@ -21,3 +21,6 @@ To enter a running container's shell you can use the following command as an exa
 This command does the following:
 * `-i or --interactive` makes an interactive process
 * `-t or --tty` allocates a pseudo-tty.
+
+---
+#container #podman #linux 

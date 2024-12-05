@@ -14,11 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Podman/Project - Running Nextcloud on Podman.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Project - Running Nextcloud on Podman"
+            }
+          },
+          {
+            "id": "f493314834886029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podman/Podman Storage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Podman Storage"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "30 Nov 24 SFVLUG"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b34ad8251136af",
+  "active": "f493314834886029",
   "lastOpenFiles": [
-    "SFVLUG/30 Nov 24 SFVLUG.md",
     "Podman/Project - Running Nextcloud on Podman.md",
-    "Linux/GPG Basics.md",
     "Podman/Running containers in Podman.md",
+    "Podman/Podman Storage.md",
+    "SFVLUG/30 Nov 24 SFVLUG.md",
+    "Linux/GPG Basics.md",
     "SFVLUG",
     "Linux/GPG Management.md",
     "Podman",
@@ -207,7 +223,6 @@
     "Azure/Web Apps.md",
     "Azure/Describe Azure Architecture and Services.md",
     "Azure/Azure Files.md",
-    "Azure/IaaS - recommended for high customization.md",
     "Windows",
     "AZ-104",
     "Linux",

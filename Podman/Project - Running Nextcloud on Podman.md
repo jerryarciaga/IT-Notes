@@ -91,3 +91,5 @@ Now that both containers are running, you can now configure these containers. No
 ---
 Related Links
 [Install NextCloud via Podman](https://fedoramagazine.org/nextcloud-20-on-fedora-linux-with-podman/)
+
+#selfhost #podman #linux #nextcloud
