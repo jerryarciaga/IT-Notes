@@ -19,3 +19,22 @@ Activate volume groups by invoking the following as `root`.
 ```
 vgchange -a y MyVolGroup
 ```
+
+## Logical Volumes
+Logical volumes are volumes you can create logically, without the need to worry about physical disk size. With this, it's possible to make a 200 GB logical volume out of two 100 GB drives.
+## Creating a logical volume
+To create a 10 GB home partition out of `MyVolGroup`, then make it available, invoke the following commands:
+```
+# Create a 10 GB partition
+lvcreate --size 10G --name home MyVolGroup
+mkfs.ext4 /dev/MyVolGroup/home
+
+# Create a partition to cover the rest of the free space
+lvcreate --extents 100%FREE --name home MyVolGroup
+mkfs.ext4 /dev/MyVolGroup/home
+```
+The first command creates a 10 GB logical volume, then the second formats it to make it useable.
+### Specifying volume sizes
+There are two ways to specify LV sizes on creation.
+* `--size or -L` allows specifying a hard-coded size. Useful for allocating an exact size for a partition. As an example, the command listed above shows how to create a 10 GB partition off of `MyVolGroup`.
+*  `--extents or -l` allows specifying size based on percentage. For example, `lvcreate --extents 100%FREE --name home MyVolGroup` creates a `home` partition with the remaining free space `MyVolGroup` has.
