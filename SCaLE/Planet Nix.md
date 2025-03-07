@@ -1,4 +1,5 @@
 # Intro to Nix
+#nixos #SCaLE
 ## Flakes
 Flakes are currently an experimental feature
 
@@ -34,3 +35,47 @@ let
 in
   sum 1 2
 ```
+### Note on environment variables
+It's possible to use environment variables; however, this may go against reproducibility
+## Evaluating nix expressions
+* You can evaluate inline: `$ nix eval --expr '1 + 2'`
+* Or a file full of nix expressions: `$ nix eval --file example.nix`
+
+## `mkShell` -- Development environment
+* This allows you to drop into a dev shell with certain tools installed
+```
+{
+...
+  outputs = { self, nixpkgs }:
+    let 
+      system = "aarch64-linux";
+      pkgs = nixpkgs.legacyPackages.${system};
+    in {
+      devShells.${system} = {
+        nodejs = pkgs.mkShell {
+          packages = [ pkgs.nodejs ];
+        };
+        python = pkgs.mkShell {
+          packages = [ pkgs.python3 pkgs.poetry ];
+        };
+      };
+    };
+...
+}
+```
+* To use it, you can now do:
+`$ nix develop .#nodejs` or `$ nix develop .#python`
+* NOTE: You can also use `default` as one of the attribute sets of `devShells.${system}` so you only have to invoke `$ nix develop` to drop into that shell.
+
+## Custom Package - `mkDerivation`
+* Capture every thing that a package needs and store it into `/nix/store`
+
+# Nix on Python? Yes you can!
+## Projects
+### Python-nix
+* Lightweight wrapper build upon C
+* [Python nix](https://github.com/tweag/python-nix)
+* Forked by presenter: [Python-Nix (fork)](https://github.com/fusiled/python-nix)
+* Seems not maintained anymore
+## Examples
+### A simple override

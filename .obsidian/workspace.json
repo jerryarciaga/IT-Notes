@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LVM.md",
+                "file": "SCaLE/Cloud Native.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LVM"
+              "title": "Cloud Native"
+            }
+          },
+          {
+            "id": "77e9646dd5030159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCaLE/Planet Nix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planet Nix"
             }
           }
         ]
@@ -40,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 296.5
   },
   "right": {
     "id": "d06dd62498bed542",
@@ -165,6 +180,10 @@
   },
   "active": "c9b34ad8251136af",
   "lastOpenFiles": [
+    "SCaLE/Planet Nix.md",
+    "SCaLE/Cloud Native.md",
+    "SCaLE/Planet Nix.md~",
+    "Linux/LVM.md",
     "Yubikey/YubiKey.md",
     "Linux/faillock.md",
     "SFVLUG/30 Nov 24 SFVLUG.md",
@@ -182,7 +201,6 @@
     "Azure/Virtual Machine Scale Sets.md",
     "Azure/Permission Inheritance.md",
     "Azure/Public Cloud.md",
-    "Linux/LVM.md",
     "Azure/Factors affecting Azure availability within SLA.md",
     "Azure/Azure Service Health.md",
     "Azure/Azure Monitor.md",
@@ -192,14 +210,11 @@
     "Azure/AZ Virtual Machine Uptime.md",
     "Azure/Microsoft Purview.md",
     "Azure/PaaS - recommended for developers.md",
-    "Azure/Quota Limits.md",
-    "Azure/Inter Region Data Transfer.md",
     "Windows",
     "AZ-104",
     "Linux",
     "IT Support Notes",
     "Templates",
-    "Azure",
     "Azure"
   ]
 }
