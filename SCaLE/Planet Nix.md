@@ -79,3 +79,21 @@ It's possible to use environment variables; however, this may go against reprodu
 * Seems not maintained anymore
 ## Examples
 ### A simple override
+
+# Evaluating nix evaluators
+## `benchmarking-nix-eval`
+* Nix flake for benchmarking the Nix flake
+* Matrix nix packages and configurations through flakes
+* Runs `time nix eval` inside the sandbox `n` times
+
+# Configurable Flakes
+## Flakes
+* Way to distribute Nix artifacts
+* Git repo with a `flake.nix` in it
+* Exact dependencies are recorded in a lock file
+## Goals
+* Reproducibility
+* Composable
+* Extensible
+* "Just works"
+* Discoverable
