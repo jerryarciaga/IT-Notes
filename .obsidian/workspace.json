@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCaLE/Planet Nix.md",
+                "file": "SCaLE/SunSecCon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planet Nix"
+              "title": "SunSecCon"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCaLE/SunSecCon.md",
-                "mode": "source",
+                "file": "SCaLE/Open Source Career Day.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SunSecCon"
+              "title": "Open Source Career Day"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 240.5
   },
   "right": {
     "id": "d06dd62498bed542",
@@ -179,9 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d024fb5690c5aab",
+  "active": "c9b34ad8251136af",
   "lastOpenFiles": [
+    "SCaLE/Open Source Career Day.md",
     "SCaLE/Planet Nix.md",
+    "SCaLE/Stuff to Check Out.md",
     "SCaLE/SunSecCon.md",
     "SCaLE/Cloud Native.md",
     "SCaLE/Planet Nix.md~",
@@ -209,8 +210,6 @@
     "Azure/Azure Cost Management and Billing.md",
     "IT Support Notes/Random Shutdowns.md",
     "Linux/Bulk Renaming Files.md",
-    "Azure/AZ Virtual Machine Uptime.md",
-    "Azure/Microsoft Purview.md",
     "Windows",
     "AZ-104",
     "Linux",
